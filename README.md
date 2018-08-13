@@ -14,4 +14,4 @@ If enough of the item exists in the database, Bamazon will update the table in m
 ![](images/ScreenShot5.png)
 
 If there is not enough of the item to fulfill the order, Banazon will alert the user that there is an insufficient quantity and display another prompt for them to put in another item ID.
-![](images/ScreenShot5.png)
+![](images/ScreenShot6.png)
