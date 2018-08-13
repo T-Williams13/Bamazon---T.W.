@@ -78,7 +78,7 @@ function checkExists(answer) {
 function checkStock(stockItem, userQuantity){
   if (stockItem.stock_quantity < userQuantity){
     console.log("Insufficient quantity!")
-
+start();
   }else{
     console.log("There's enough!")
     fillOrder(stockItem, userQuantity)
